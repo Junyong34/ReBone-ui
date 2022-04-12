@@ -1,0 +1,5 @@
+src/**/tests/**
+src/**/__snapshots__/**
+config-overrides.js
+config.js
+commitlint.config.js
